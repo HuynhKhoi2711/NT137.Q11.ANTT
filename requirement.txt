@@ -1,1 +1,6 @@
 pywin32
+pydivert
+scapy 
+pcapy-ng
+dpkt 
+pyshark
