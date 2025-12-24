@@ -10,4 +10,12 @@
 | 5   | Hoàng Văn E | Export dữ liệu và logging | Module `exporter.py`, `logger_util.py` |
 | 6   | Nguyễn Thị F| Scheduler và tự động hóa | Module `scheduler.py`, cấu hình tự động chạy theo lịch |
 
+████████╗███╗ ██╗████████╗ █████╗ ██████╗ ██████╗
+╚══██╔══╝████╗ ██║╚══██╔══╝██╔══██╗██╔══██╗██╔═══██╗
+██║ ██╔██╗ ██║ ██║ ███████║██████╔╝██║ ██║
+██║ ██║╚██╗██║ ██║ ██╔══██║██╔═══╝ ██║ ██║
+██║ ██║ ╚████║ ██║ ██║ ██║██║ ╚██████╔╝
+╚═╝ ╚═╝ ╚═══╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚═════╝
+
+             NT140 - Threat Intelligence
 
